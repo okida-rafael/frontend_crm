@@ -1,5 +1,3 @@
-import "./Sidebar.css";
-
 const Sidebar = () => {
   return (
     <div className="w-52 p-5 h-screen fixed bg-slate-100">
